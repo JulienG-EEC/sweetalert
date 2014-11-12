@@ -8,7 +8,8 @@
   top: 0;
   bottom: 0;
   display: none;
-  z-index: 1000; }
+  z-index: 1000;
+  background-color: rgba(0, 0, 0, 0.4);}
 
 .sweet-alert {
   background-color: white;
